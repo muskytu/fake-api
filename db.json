@@ -8,7 +8,7 @@
 			"preco": "37.260",
 			"ano": "2015/2014",
 			"km": 112300,
-			"local": "São Paulo""
+			"local": "São Paulo"
 		}, {
 			"id": 2,
 			"nome": "KIA SORENTO",
@@ -70,7 +70,7 @@
 				}]
 			}],
 			"mes": 2,
-			"ano": 2021,
+			"ano": 2021
 		}
 	]
 }
